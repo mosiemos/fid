@@ -1,0 +1,102 @@
+﻿body {
+    background-color: lemonchiffon;
+    margin: 0;
+    font-family: serif;
+    text-align: center;
+    padding: 0;
+    font-weight: normal;
+    margin-top: 0px;
+    font-size: 20px;
+    color: black;
+}
+ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    text-align: center;
+    color: black;
+    font-family: serif;
+}
+ul li {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    text-align: center;
+    color: black;
+    font-family: serif;
+}
+a {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    text-align: center;
+    color: #399;
+    font-family: serif;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+nav ul li {
+    display: initial;
+    margin-right: 20px;
+    
+}
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 15px;
+    color: black;
+    font-family: serif;
+}
+article:focus {
+    font-family: serif;
+    color: #d1633c;
+    font-size: 2em;
+}
+footer:read-only {
+    border-top: 1px solid #57b1dc;
+    text-align: center;
+    padding-top: 1rem;
+    padding: 10px;
+    font-size: 1rem;
+    bottom: 0;
+    background-color: dimgray;
+    color: antiquewhite;
+    width: 100%;
+    margin: 0;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+    vertical-align: middle;
+}
+header {
+    font-family: serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    color: #d1633c;
+}
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 2px solid #57b1dc;
+    margin-top: 0px;
+    font-size: 3em;
+    background-color: peru;
+}
+h2 {
+    color: #d1633c;
+    font-size: 2em;
+}
