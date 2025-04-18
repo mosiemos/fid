@@ -1,0 +1,49 @@
+﻿html {
+    box-sizing: border-box;
+}
+body
+{
+    background-color: lightpink;
+    color:deeppink;
+    text-align: center;
+    margin: 0%;
+    font-family:serif;
+    font-size: 25px;
+}
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+h2 {
+    color: hotpink;
+    font-size: 2em;
+}
+hr {
+    width: 100%;
+    margin: 10 auto;
+    border: 10px solid;
+    color:pink;
+}
+img{
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    width: 210px;
+    height: 210px;
+}
+img:hover{
+    width:20%;
+    height:20%;
+
+}
+center img{
+    width:800px;
+    height:800px;
+}
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
